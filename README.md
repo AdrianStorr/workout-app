@@ -2,9 +2,9 @@
 For this assignment, you'll create a workout tracker.
 
 
-![picture](./public/assets/images/burgerapp.png)
+![picture](./images/workoutdashboard.PNG)
 
-[link to heroku](https://sleepy-ridge-15178.herokuapp.com/burgers)
+[link to heroku](https://aqueous-scrubland-79272.herokuapp.com/?id=5ff20e101e9e2900171a52cb)
 
   ## Table of Contents
   * [Description](#Description)
