@@ -2,7 +2,7 @@
 For this assignment, you'll create a workout tracker.
 
 
-![picture](./images/workoutdashboard.PNG)
+![picture](./images/workoutapp.PNG)
 
 [link to heroku](https://aqueous-scrubland-79272.herokuapp.com/?id=5ff20e101e9e2900171a52cb)
 
